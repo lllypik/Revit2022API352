@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\PROG\App\DLL\Revit2022API352.dll"</Assembly>
+		<AddInId>2CE62797-E240-4CA3-8D93-CA39D14D60FD</AddInId>
+		<FullClassName>Revit2022API352.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Тема 5 Смена типа стены</Text>
+	</AddIn>
+</RevitAddIns>
